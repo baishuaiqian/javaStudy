@@ -1,6 +1,7 @@
-学习java的仓库
+study java warehouse
 
-参考哔哩哔哩链接：https://www.bilibili.com/video/BV1Kb411W75N
+reference links：https://www.bilibili.com/video/BV1Kb411W75N
 
-​			            mail：baishuaiqian@aliyun.com
+mail：baishuaiqian@aliyun.com or 523337192@qq.cm
 
+WeChat or QQ：523337192
