@@ -1,5 +1,5 @@
 study java warehouse
 
-reference links：https://www.bilibili.com/video/BV1Kb411W75N
+reference links：https://www.youtube.com/watch?v=xk4_1vDrzzo
 
 mail：baishuaiqian@gmail.com
