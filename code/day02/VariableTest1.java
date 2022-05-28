@@ -47,5 +47,35 @@ class VariableTest1 {
 		float f1=12.3F;
 		System.out.println(f1);
 		//④通常，定义浮点型变量时，使用double型
+
+		//3.字符型：char(1字符=2字节)
+		//①定义char型变量，通常使用一堆''，内部只能写一个字符
+		char c1='a';
+		//编译不通过
+		//c1='AB';
+		System.out.println(c1);
+
+		//②表示方式：1.声明一个字符 2.转义字符 3.直接使用Unicode 值表示字符型常量
+		char c2='\n';
+		c2='\t';  //tab键，制表符
+		System.out.print("Hello" + c2);
+		System.out.println("world");
+
+		char c3='\u0040';
+		System.out.println(c3);
+
+		//4.布尔型：boolean
+		//①只能取两个值之一：true、false
+		//②常常在条件判断、循环结构中使用
+		boolean bb1=true;
+		System.out.println(bb1);
+
+		boolean isMarried = false;
+		if(isMarried){
+			System.out.println("结婚啦");
+		}else{
+			System.out.println("没结婚");
+		}
+
 	}
 }
