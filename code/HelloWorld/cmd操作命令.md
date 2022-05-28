@@ -10,6 +10,7 @@ del *.doc           删除所有doc文件
 del class1          删除class1文件夹下所有文件
 rd class1           删除class1文件夹（只删空目录）
 
+
 echo   name:Tom,age=12>1.doc        将name:Tom,age=12写入到1.doc下
 ```
 

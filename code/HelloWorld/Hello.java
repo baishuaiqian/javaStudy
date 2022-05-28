@@ -19,7 +19,6 @@ System.out.print();   只输出数据
 
 6.编译的过程：编译以后，会生成一个或多个字节码文件。字节码文件的文件名与java源文件中的类名相同。
 
-
 */
 public class Hello {
 	public static void main(String[] args){//public static void main(String a[]) {//arguments:参数
