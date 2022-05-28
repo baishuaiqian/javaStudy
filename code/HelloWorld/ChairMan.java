@@ -1,4 +1,4 @@
-public class Demo{
+public class ChairMan{
 	public static void main (String[] arg){
 		System.out.println("ĞÕÃû£ºXXX");
 		System.out.println();
